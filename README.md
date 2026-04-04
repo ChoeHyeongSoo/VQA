@@ -1,1 +1,3 @@
-# VQA
+# AI Challenge
+
+### VQA Model
